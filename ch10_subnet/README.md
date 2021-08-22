@@ -6,7 +6,6 @@ Create a folder first_instance and write two files main.tf and provider.tf.
 Execute the init command after main.tf and provider.tf is ready
 
 `$ terraform init chapter_1/`
-
 >Create a folder in 'pwd' .terraform/plugins/linux_amd64/ with 
 Terraform provider for google and 
 lock.json
