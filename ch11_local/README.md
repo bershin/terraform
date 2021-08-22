@@ -1,2 +1,2 @@
 
-Variables that are made up of manu variables
+Variables that are made up of many variables used to combine with local
